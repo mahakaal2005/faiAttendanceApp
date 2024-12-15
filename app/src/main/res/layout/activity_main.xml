@@ -41,7 +41,7 @@
         android:layout_width="260dp"
         android:layout_height="278dp"
         android:layout_marginTop="28dp"
-        android:src="@drawable/kiet_Logo"
+
         app:layout_constraintEnd_toEndOf="@id/guideline"
         app:layout_constraintHorizontal_bias="0.49"
         app:layout_constraintStart_toStartOf="@id/guideline3"
